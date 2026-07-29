@@ -29,7 +29,7 @@ The dataset contains numerical features computed from digitized images of breast
 - **0 → Malignant**
 - **1 → Benign**
 
-# ⚙️ Data Preprocessing
+# Data Preprocessing
 
 The following preprocessing steps were applied:
 

@@ -1,0 +1,9 @@
+Required Libraries and Tools
+
+- Python
+- TensorFlow / Keras
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
